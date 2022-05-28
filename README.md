@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omer</h1>
+<h1 align="center">Hi, I'm Omer</h1>
 <h3 align="center">BI developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Power Bi,Sql and Pyhton.**
